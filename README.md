@@ -16,6 +16,7 @@ Extend analysis from Module 1 to help identify benchmark stores that allow to te
 
 Skills Gained: Data Analysis, Commercial thinking, Statistical Testing.
 
+
 Task 3: Analytics and commercial application
 
 Use analytics and insights from Modules 1 and 2 to prepare a report for the client, the Category Manager.
