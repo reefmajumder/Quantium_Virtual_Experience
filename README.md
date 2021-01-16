@@ -9,13 +9,14 @@ Conduct analysis on your client's transaction dataset and identify customer purc
 
 Skills Gained: Data Validation, Data Visualization, Data Wrangling and Programming.
 
+
 Module 2: Experimentation and uplift testing
 Extend analysis from Module 1 to help identify benchmark stores that allow to test the impact of the trial store layouts on customer sales.
 
 Skills Gained: Data Analysis, Commercial thinking, Statistical Testing.
 
 
-Task 3: Analytics and commercial application
+Module 3: Analytics and commercial application
 Use analytics and insights from Modules 1 and 2 to prepare a report for the client, the Category Manager.
 
 Skills Gained: Commercial thinking, Presentation skills, Communication Skills
