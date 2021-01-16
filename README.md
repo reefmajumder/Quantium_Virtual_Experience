@@ -27,7 +27,7 @@ Commercial thinking, Presentation skills, Communication Skills
 **Python Version:** 3.7\
 **Packages:** pandas, numpy, matplotlib, datetime
 
-Data Cleaning:
+#### Data Cleaning:
 
 * Date column was in integer format that was changed to datetime data type.
 * We needed to ensure that we were only dealing with products that were chips. After splitting the product name into words we figured out there were salsa products that needed to be removed. 
