@@ -20,7 +20,7 @@ Task 3: Analytics and commercial application
 
 Use analytics and insights from Modules 1 and 2 to prepare a report for the client, the Category Manager.
 
-Commercial thinking, Presentation skills, Communication Skills
+Skills Gained: Commercial thinking, Presentation skills, Communication Skills
 ---
 
 ### Code and Resources Used
