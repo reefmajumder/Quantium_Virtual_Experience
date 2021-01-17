@@ -34,8 +34,8 @@
 * The first word in "PROD_NAME" was value counted to find the different ways a product can be expressed. A new column was created called "Cleaned_Brand_Names".
 
 #### Analysing Customer Segments of Data:
--TOT_SALES column was grouped by to find the top 3 customer segments: 
-RETIREES                  14805
-OLDER SINGLES/COUPLES     14609
-YOUNG SINGLES/COUPLES     14441
+* TOT_SALES column was grouped by to find the top 3 customer segments: 
+* RETIREES                  14805
+* OLDER SINGLES/COUPLES     14609
+* YOUNG SINGLES/COUPLES     14441
 
