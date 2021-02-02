@@ -31,7 +31,7 @@
 #### Sales is mainly due to the following groups:
 #### * Older Families(Budget), Young Single/Couple(Mainstream), and Retirees(Mainstream).
 #### * For young singles/couples 8.2% contribution of sales is coming from Mainstream customers. For families, highest contribution is coming from Budget category, whereas for Retirees it's coming from Mainstream customers.
-#### * For people on budget, new families or old families tend to spend a lot.
+#### * For people on budget whether new or old they tend to spend a lot.
 
 ### Module 2: 
 
