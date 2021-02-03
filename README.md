@@ -15,7 +15,7 @@
 
 ### Module 3: Analytics and commercial application:
 #### Use analytics and insights from Modules 1 and 2 to prepare a report for the client, the Category Manager.
-#### Skills: Commercial thinking, Presentation skills, Communication Skills
+#### Skills: Commercial thinking, Presentation skills, Communication Skills.
 
 ---
 
@@ -23,7 +23,7 @@
 **Python Version:** 3.7\
 **Packages:** pandas, numpy, matplotlib, datetime
 
-### Module 1: Data Preparation and Consumer Analytics 
+### Module 1: Data Preparation and Consumer Analytics:
 
 #### Sales is mainly due to the following groups:
 #### * Older Families(Budget), Young Single/Couple(Mainstream), and Retirees(Mainstream).
