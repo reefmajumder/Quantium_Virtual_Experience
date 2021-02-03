@@ -29,6 +29,5 @@
 #### * Older Families(Budget), Young Single/Couple(Mainstream), and Retirees(Mainstream).
 #### * For young singles/couples 8.2% contribution of sales is coming from Mainstream customers. For families, highest contribution is coming from Budget category, whereas for Retirees it's coming from Mainstream customers.
 #### * For people on budget whether new or old they tend to spend a lot.
-
-
+#### I'd recommend the category manager to shift the location of the smaller packs of chips to somewhere close to where younger adults go. That would increase the impulsive behaviour of buying.
 
